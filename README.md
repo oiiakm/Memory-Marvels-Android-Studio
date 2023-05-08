@@ -41,9 +41,9 @@ We welcome contributions from anyone! If you find a bug or have an idea for a ne
 
 ## Credits
 
-AMIT KUMAR : [oiiakm](https://github.com/oiiakm)
+[AMIT KUMAR](https://github.com/oiiakm)
 
-AMAN GUPTA : [CrimsonUnicorn](https://github.com/CrimsonUnicorn)
+[AMAN GUPTA](https://github.com/CrimsonUnicorn)
 
-ANSHIKA SHARMA : [anshikasharma148](https://github.com/anshikasharma148)
+[ANSHIKA SHARMA](https://github.com/anshikasharma148)
 
