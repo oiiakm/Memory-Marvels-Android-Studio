@@ -34,6 +34,9 @@ After the game is completed, a score page will be displayed showing the player's
 
 ![Memory Marvels Score](/screenshots/score.png)
 
+## Contributing
+We welcome contributions from anyone! If you find a bug or have an idea for a new feature, please create an issue or submit a pull request.
+
 ## Credits
 [@oiiakm](https://github.com/oiiakm)
 
