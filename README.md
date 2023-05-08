@@ -26,6 +26,8 @@ Memory Marvels is a classic card matching game that offers an engaging and chall
 
 6.Repeat steps 2-5 until all cards have been matched.
 
+## Score Updated Realtime
+
 ![Memory Marvels Game Page with Real-Time Score](/screenshots/realtime_score.png)
 
 
